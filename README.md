@@ -1,4 +1,6 @@
 # Analyzer Rule Engine
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkonveyor%2Fanalyzer-lsp.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkonveyor%2Fanalyzer-lsp?ref=badge_shield)
+
 
 In this project, we are writing a rule engine that can use pluggable providers for rules to make a consistent way to execute rules for Konveyor.
 
@@ -65,3 +67,7 @@ CLI Options:
 ## Code of Conduct
 
 Refer to Konveyor's [Code of Conduct page](https://github.com/konveyor/community/blob/main/CODE_OF_CONDUCT.md)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkonveyor%2Fanalyzer-lsp.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkonveyor%2Fanalyzer-lsp?ref=badge_large)
